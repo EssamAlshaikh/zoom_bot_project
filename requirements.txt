@@ -2,3 +2,4 @@ python-telegram-bot
 pydrive
 apscheduler
 python-telegram-bot==20.3
+python-dotenv
