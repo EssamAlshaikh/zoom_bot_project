@@ -1,5 +1,8 @@
-python-telegram-bot
-pydrive
-apscheduler
-python-telegram-bot==20.3
-python-dotenv
+playwright==1.42.0
+python-telegram-bot==20.8
+apscheduler==3.10.4
+nest_asyncio==1.6.0
+pytz==2024.1
+google-api-python-client==2.122.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
